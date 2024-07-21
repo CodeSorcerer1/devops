@@ -42,7 +42,7 @@ class Main {
 
       // performs division between numbers
       case '/':
-        result = number1 / number2;
+        result = number3 / number2;
         System.out.println(number1 + " / " + number2 + " = " + result);
         break;
 
